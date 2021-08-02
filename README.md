@@ -1,2 +1,7 @@
 # smplWPReact
-Here is simple script deploying React project template.
+Here is simple template for React project.
+Webpack.
+Bable.
+Style loader.
+Css loader.
+File loader
