@@ -5,3 +5,5 @@ Babel.
 Style loader.
 Css loader.
 File loader
+
+Just clone and **"npm install"**
