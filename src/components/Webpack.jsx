@@ -1,9 +1,10 @@
 import React from "react"
+import wpLogo from "../img/webp-logo.png"
 const WebpackComp = () => {
   console.log(" Webpack component render")
   return (
     <>
-      <img src="./img/webp-logo.png" alt="webpack logo" />
+      <img src={wpLogo} alt="webpack logo" />
     </>
   )
 }
